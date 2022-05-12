@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=7b3cc7&lines=I'm+a+Data+and+AI+Engineer;Feel+free+to+explore+my+projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8337de&lines=I'm+a+Data+and+AI+Engineer;Feel+free+to+explore+my+projects)](https://git.io/typing-svg)
 
 
 Welcome to my Github profile. <br>
